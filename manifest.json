@@ -1,0 +1,17 @@
+{
+  "id":"./",
+  "name":"J.A.R.V.I.S. 365",
+  "short_name":"JARVIS 365",
+  "description":"Personal 365-day operating system",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "display_override":["window-controls-overlay","standalone"],
+  "orientation":"portrait-primary",
+  "background_color":"#f3ecdf",
+  "theme_color":"#f3ecdf",
+  "icons":[
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
